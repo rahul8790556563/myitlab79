@@ -1,6 +1,5 @@
 <html>
 <body>
-<marquee>
 <table border="10" bordercolor="green" bgcolor="red" cellspacing=1 cellspacing=5 width=400 height=200>
 <tr>
 <th>column 1 header</th>
@@ -15,6 +14,5 @@
 <td>row2,col2</td>
 </tr>
 </table>
-</marquee>
 </body>
 </html>
