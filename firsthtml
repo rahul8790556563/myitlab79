@@ -1,0 +1,21 @@
+<html>
+<body>
+<marquee>
+<table border="10" bordercolor="green" bgcolor="red" cellspacing=1 cellspacing=5 width=400 height=200>
+<tr>
+<th>column 1 header</th>
+<th>column 2 header</th>
+</tr>
+<tr>
+<td>row1,col1</td>
+<td>row1,col2</td>
+</tr>
+<tr>
+<td>row2,col1</td>
+<td>row2,col2</td>
+</tr>
+<CAPTION ALIGN="BOTTOM"> <i>RAHUL</CAPTION>
+</table>
+</marquee>
+</body>
+</html>
